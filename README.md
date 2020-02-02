@@ -18,6 +18,9 @@ The app does use third party services that may collect information used to ident
 Link to privacy policy of third party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
+            <li><a href="https://support.google.com/admob/answer/6128543?hl=en" rel="nofollow" target="_blank">AdMob</a></li>
+            <li><a href="https://airtable.com/privacy" rel="nofollow" target="_blank">Airtable</a></li>
+            <li><a href="https://firebase.google.com/support/privacy" rel="nofollow" target="_blank">Firebase</a></li>
 
 **Log Data**
 
