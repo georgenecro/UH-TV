@@ -1,7 +1,6 @@
-
 ## Privacy Policy
 
-DiveIntoTheDark built the UH TV app as an Ad Supported app. This SERVICE is provided by DiveIntoTheDark at no cost and is intended for use as is.
+DiveIntoTheDark built the UH TV app as a Free app. This SERVICE is provided by DiveIntoTheDark at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -11,16 +10,15 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Email and store the email into the Firebase DB in order to make profiles and load premium features. The information that I request will be retained on your device and is not collected by me in any way.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
 
 The app does use third party services that may collect information used to identify you.
 
 Link to privacy policy of third party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
-            <li><a href="https://support.google.com/admob/answer/6128543?hl=en" rel="nofollow" target="_blank">AdMob</a></li>
             <li><a href="https://airtable.com/privacy" rel="nofollow" target="_blank">Airtable</a></li>
-            <li><a href="https://firebase.google.com/support/privacy" rel="nofollow" target="_blank">Firebase</a></li>
+
 
 **Log Data**
 
@@ -61,4 +59,4 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at Nick Iliadis.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at georgenecro1@hotmail.com.
