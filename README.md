@@ -19,7 +19,7 @@ Link to privacy policy of third party service providers used by the app
                
 *   [Google Play Services](https://www.google.com/policies/privacy/)
             <li><a href="https://airtable.com/privacy" rel="nofollow" target="_blank">Airtable</a></li>
-<li><a href="https://onesignal.com/privacy_policy" rel="nofollow" target="_blank">One Signal</a></li>       
+            <li><a href="https://onesignal.com/privacy_policy" rel="nofollow" target="_blank">One Signal</a></li>       
 
 **Log Data**
 
